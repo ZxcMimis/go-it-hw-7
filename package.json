@@ -9,16 +9,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZxcMimis/go-it-hw-7.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ZxcMimis/go-it-hw-7/issues"
-  },
+
   "homepage": "https://zxcmimis.github.io/go-it-hw-7/",
   "devDependencies": {
     "parcel": "^2.13.3"
